@@ -71,7 +71,7 @@ body{
     height:30px;
     border-top:none;
     border-right: none;
-    border-bottom: none; 
+    border-bottom: none;
     border-left: 2px, black;
     left: -10px;
     padding: 1%;
@@ -173,12 +173,12 @@ label{
 }
 .addListing-text-input-l{
     float: left;
-    
+
 }
 .al-label{
     font-size: 20px;
     font-weight: normal;
-    margin-right: 1%;   
+    margin-right: 1%;
 }
 .al-input{
     font-size: 20px;
@@ -211,3 +211,19 @@ label{
 #al-submitButton :hover{
     background-color: antiquewhite;
 }
+
+  #media{
+    text-align: center;
+    width: 20px;
+    height: 20px;
+  }
+
+  .column {
+    float: left;
+    width: 32%;
+    padding: 5px;
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   background-color:#d3d3d3 ;
+  }
