@@ -315,3 +315,22 @@ label{
     color: blue;
     text-decoration: underline;
 }
+
+/*search page styling*/
+.column
+{
+  float: left;
+  width: 31%;
+  padding: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#search-bar{ width: 100% }
+
+.sentence
+{
+  font-family: 'Varela Round', sans-serif;
+  color: black;
+}
